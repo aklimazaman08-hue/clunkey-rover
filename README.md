@@ -1,4 +1,3 @@
 # clunkey-rover
 ## Clunkey Rover Concept
-This is my initial sketch and design concept for the Clunkey Rover, a mini autonomous robot inspired by FIRST Robotics and mechanical engineering.
-![Clunkey Rover Sketch](clunkey-rover-sketch.png)
+This is my initial sketch and design concept for the Clunkey Rover, a mini autonomous robot inspired by FIRST Robotics and mechanical engineering

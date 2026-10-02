@@ -1,8 +1,7 @@
-## Clunkey Rover Bill of Materials
-
 ## Planned Parts
 
 | Part | Quantity | Estimated Cost | Purpose |
+|---|---:|---:|---|
 | ESP32 development board | 1 | $6 | Main controller |
 | TT geared DC motor | 4 | $8 | One motor for each wheel |
 | TB6612FNG motor driver | 2 | $11 | Controls the four drive motors |

@@ -59,3 +59,33 @@ The CAD model should:
 ## Planned CAD Work
 
 The next step is to create the chassis model and add the four-wheel layout, motor mounts, electronics platform, battery area, and ultrasonic sensor mount.
+
+## Chassis Dimensions and Layout
+
+The Clunkey Rover chassis will be designed as a compact rectangular platform.
+
+### Planned Layout
+
+- Four TT geared motors will be positioned near the four corners.
+- Each motor will drive one wheel.
+- The ESP32 will be positioned near the center of the chassis.
+- The two motor drivers will be positioned near the motors to keep the wiring organized.
+- The battery holder will be placed in a secure central area.
+- The ultrasonic sensor will be mounted at the front of the rover.
+- The electronics will remain accessible for testing and future changes.
+
+### Design Priorities
+
+The CAD design will prioritize:
+
+1. A compact overall size.
+2. Enough space for all four motors and wheels.
+3. A balanced weight distribution.
+4. Secure mounting locations for electronics.
+5. A clear forward-facing position for the ultrasonic sensor.
+6. Easy access to the electronics during testing.
+7. Simple construction that can be modified if the design changes.
+
+### Future CAD Work
+
+The next CAD stage will be to create the actual 3D chassis model and refine the dimensions based on the selected components. Motor mounting locations, wheel clearance, electronics mounting points, and the sensor mount will be checked before the physical build.

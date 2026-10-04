@@ -64,3 +64,48 @@ ESP32
 ## Design Goal
 
 The electronics system will allow Clunkey Rover to drive using four motors while detecting obstacles with the ultrasonic sensor. The ESP32 will act as the main controller for the autonomous behavior.
+
+## Detailed System Flow
+
+The Clunkey Rover electronics will be organized around the ESP32 as the main controller.
+
+### Control Flow
+
+1. The battery system provides power to the rover electronics.
+2. The ESP32 acts as the main controller.
+3. The ESP32 sends control signals to the two TB6612FNG motor drivers.
+4. Motor Driver 1 controls the two left-side motors.
+5. Motor Driver 2 controls the two right-side motors.
+6. The HC-SR04 sensor sends distance information to the ESP32.
+7. The ESP32 uses the sensor information to determine the rover's next movement.
+
+### Planned System Diagram
+
+```text
+              ┌─────────────────┐
+              │  Battery System │
+              └────────┬────────┘
+                       │
+              ┌────────▼────────┐
+              │      ESP32      │
+              │ Main Controller │
+              └───┬─────────┬───┘
+                  │         │
+          ┌───────▼───┐ ┌───▼───────┐
+          │   Motor   │ │   Motor   │
+          │ Driver 1  │ │ Driver 2  │
+          └───────┬───┘ └───┬───────┘
+                  │          │
+             ┌────▼────┐ ┌───▼─────┐
+             │  Left   │ │  Right  │
+             │ Motors  │ │ Motors  │
+             └─────────┘ └─────────┘
+
+              ┌─────────────────┐
+              │   HC-SR04       │
+              │ Ultrasonic      │
+              │    Sensor       │
+              └────────┬────────┘
+                       │
+                       ▼
+                     ESP32

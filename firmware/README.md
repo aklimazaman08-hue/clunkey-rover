@@ -61,3 +61,11 @@ The firmware will eventually contain functions for:
 ## Current Status
 
 The firmware is currently in the planning stage. The control logic will be tested and refined after the physical electronics are available.
+
+## Firmware Flowchart
+
+The planned firmware will use the ESP32 to control the four drive motors and read distance information from the HC-SR04 ultrasonic sensor. The rover will move forward while checking for obstacles. If an obstacle is detected within the selected distance threshold, the rover will stop, choose a direction, turn, and check the distance again before continuing.
+
+![Clunkey Rover Firmware Flowchart](firmware_flowchart.png)
+
+This flowchart represents the planned firmware behavior. The code and autonomous behavior have not been physically tested yet.

@@ -98,3 +98,19 @@ The next CAD stage will be to create the actual 3D chassis model and refine the 
 
 <img width="2360" height="1327" alt="image" src="https://github.com/user-attachments/assets/75c25839-0261-448a-bbed-50bc591dccf6" />
 
+## CAD Progress
+
+The initial 4WD chassis concept has been modeled in Onshape. The design includes four wheel and motor locations, a central electronics area, a battery area, and space for the front-facing sensor.
+
+### CAD Views
+
+#### Isometric View
+![Clunkey Rover Isometric View](rover_isometric.png)
+
+#### Top View
+![Clunkey Rover Top View](rover_top_view.png)
+
+#### Front View
+![Clunkey Rover Front View](rover_front_view.png)
+
+These views show the planned physical layout of the rover before the physical parts are purchased and assembled.

@@ -89,3 +89,6 @@ The CAD design will prioritize:
 ### Future CAD Work
 
 The next CAD stage will be to create the actual 3D chassis model and refine the dimensions based on the selected components. Motor mounting locations, wheel clearance, electronics mounting points, and the sensor mount will be checked before the physical build.
+
+
+

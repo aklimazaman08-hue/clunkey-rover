@@ -25,3 +25,14 @@
 | **Total** | — | — | — | **$58.02** | — |
 
 $6.98 left of the tier's funding.
+
+| Part | Quantity | Unit Price | Total | Purpose |
+|---|---:|---:|---:|---|
+| Hiwonder 4WD Chassis Car Kit with Aluminum Alloy Frame, TT Motors | 1 | $23.99 | $23.99 | Chassis, 4 wheels, and 4 geared motors |
+| ESP32 Dev Board 4MB CP2102 USB-C 38-Pin Pre-Soldered | 1 | $7.99 | $7.99 | Main controller |
+| DFRobot TB6612FNG 2x1.2A DC Motor Driver | 2 | $4.50 | $9.00 | Controls the four drive motors |
+| HC-SR04 Ultrasonic Distance Sensor Module | 1 | $2.18 | $2.18 | Detects obstacles in front of the rover |
+| SparkFun Battery Holder 4xAA with Cover and Switch | 1 | $2.50 | $2.50 | Holds four AA batteries and provides a power switch |
+| AA Alkaline Batteries 4-Pack | 1 | $2.50 | $2.50 | Rover power source |
+| Male-to-Female Jumper Wires 10-Pack | 1 | $3.90 | $3.90 | Electrical connections between components |
+| EverStart 30W Soldering Iron | 1 | $5.96 | $5.96 | Supervised electrical assembly when needed |

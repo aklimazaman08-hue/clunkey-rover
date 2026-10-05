@@ -90,27 +90,13 @@ The CAD design will prioritize:
 
 The next CAD stage will be to create the actual 3D chassis model and refine the dimensions based on the selected components. Motor mounting locations, wheel clearance, electronics mounting points, and the sensor mount will be checked before the physical build.
 
+## CAD Progress
 
+The initial 4WD chassis concept has been modeled in Onshape. The design includes four wheel and motor locations, a central electronics area, a battery area, and space for the front-facing
 
 <img width="2360" height="1328" alt="image" src="https://github.com/user-attachments/assets/62af2ff5-211f-47a3-85f4-0de872971f4f" />
 
 <img width="2360" height="1289" alt="image" src="https://github.com/user-attachments/assets/b7213f03-c461-46bc-a85a-07b30508b68c" />
 
 <img width="2360" height="1327" alt="image" src="https://github.com/user-attachments/assets/75c25839-0261-448a-bbed-50bc591dccf6" />
-
-## CAD Progress
-
-The initial 4WD chassis concept has been modeled in Onshape. The design includes four wheel and motor locations, a central electronics area, a battery area, and space for the front-facing sensor.
-
-### CAD Views
-
-#### Isometric View
-![Clunkey Rover Isometric View](rover_isometric.png)
-
-#### Top View
-![Clunkey Rover Top View](rover_top_view.png)
-
-#### Front View
-![Clunkey Rover Front View](rover_front_view.png)
-
-These views show the planned physical layout of the rover before the physical parts are purchased and assembled.
+ 

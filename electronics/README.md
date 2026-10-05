@@ -109,3 +109,11 @@ The Clunkey Rover electronics will be organized around the ESP32 as the main con
                        │
                        ▼
                      ESP32
+
+## Electronics Layout
+
+The following diagram shows the planned electronics layout for the Clunkey Rover. It includes the ESP32 controller, two TB6612FNG motor drivers, four geared motors, the HC-SR04 ultrasonic sensor, and the 4×AA battery holder.
+
+![Clunkey Rover Electronics System Layout](electronics_system_layout.png)
+
+This is a planned system layout for the design stage. The physical wiring and component placement may be adjusted during construction and testing.
